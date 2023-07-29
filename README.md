@@ -1,4 +1,4 @@
-# OlympicsMedals-predictions-using-Linear-Regressio-algorithmn
+# OlympicsMedals-predictions-using-Linear-Regression-algorithm
 Predict How many meadals country will win in The Olympics using data from their previous Olympics performance using linear regression
 
 ## Steps:
